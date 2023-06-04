@@ -1,1 +1,2 @@
-# 2019102217
+# OpenSource S/W, KHU CE
+# Practice for git.
